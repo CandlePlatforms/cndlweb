@@ -1,6 +1,0 @@
-User-agent: *
-
-Sitemap: https://www.angle.money/sitemap.xml
-
-Sitemap: https://www.angle.money/sitemap.xml
-
