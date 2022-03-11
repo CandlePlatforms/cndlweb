@@ -1,7 +1,0 @@
-Sitemap: https://a16z.com/sitemap.xml
-Sitemap: https://a16z.com/news-sitemap.xml
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://a16z.com/wp-sitemap.xml
