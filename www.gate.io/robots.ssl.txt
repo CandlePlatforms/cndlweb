@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:/data/
+Sitemap: https://www.gate.io/sitemap.xml
